@@ -6,7 +6,7 @@
 #define DISP_DELAY_DIVIDER 10
 #define COUNT_QREAL_IN_QPOINTF 2
 const float MAX_INT16 = 32767; ///максимальное значение переменной в int16_t
-
+/// gitTest1
 /**
  * @brief AudioDisplay::AudioDisplay Конструктор класса, назначает значения при инициализации переменным
  * @param graphSeries QLineSeries в которую будет отображаться график
